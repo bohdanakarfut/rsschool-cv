@@ -16,7 +16,8 @@ I have been working as a land surveying engineer for 14 years and I really want 
 * Git, GitHub
 
 ## Code example:
-```<section class="destinations">
+```
+<section class="destinations">
             <h2 class="section-title" id="title3">POPULAR DESTINATIONS</h2>
             <div class="carousel">
                 <div class="destinations-blocks-wrapper">
